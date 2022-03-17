@@ -1,0 +1,47 @@
+---
+title: "David Selvaraj"
+image: "david.jpg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=eKoxTQ8AAAAJ"
+  - label: CV
+    url: "https://docs.google.com/document/d/10u3fQIJVXL-EsSJz1Vz-CD6c8S3vpl9Z/edit?usp=sharing&ouid=100920568855950175626&rtpof=true&sd=true"
+  - label: Email
+    url: "mailto:dms256@case.edu"
+output:
+  postcards::trestles
+---
+  
+## Bio
+
+I am a data analysts programmer living in the Cleveland, Ohio area. Currently, 
+I work at Case Western Reserve University as a Data Manager for several clinical trials. 
+Lets talk about, compelling visuals, photography, classic cocktails, wood-fired pizza, 
+and homemade gelato.
+
+## Education
+
+**Case Western Reserve University** | Cleveland, OH 
+
+MBA with focus in Healthcare Management | 2017-2020
+
+**Case Western Reserve University** | Cleveland, OH 
+
+M.S. in Medical Physiology | 2014-2016
+
+**University of Michigan** | Ann Arbor, MI
+
+B.S. in Molecular Biology | 2010-2014
+
+## Experience
+
+**Case Western Reserve University** | Data Analyst Programmer | 2015-Present
+
+**University of Michigan** | Research Assistant in Neuromotor Behavior Lab | 2013-2014
+
+## Visualizations Projects 
+
+[Spotify Radar Plots](https://drive.google.com/file/d/1qc1OgTMbyW3MGRcl7E2sB-uJt5ePS2Yc/view?usp=sharing)
+
+[Ohio County Food Insecurity Map](https://rpubs.com/ddmsel/OhioFood)
+
